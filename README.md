@@ -1,3 +1,5 @@
+> **Moved:** this theme now lives in [dooory/code-monkey-amoled](https://github.com/dooory/code-monkey-amoled/tree/main/discord), alongside the MediaMonkey and VS Code versions. This repository is archived.
+
 # Code Monkey AMOLED for Discord
 
 A pure-black Discord theme for Equicord, ported from the Code Monkey AMOLED MediaMonkey skin. It uses the skin's black and near-black surfaces, blue highlights and selection color, square corners and the Inconsolata font.
